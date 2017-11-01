@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/kulja
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.kulja.hr
+  * I am kulja (https://keybase.io/kulja) on keybase.
+  * I have a public key ASDPEN8gk1cLemqG_PEUdavv2swnq0PlUnGuA6ZCuvFehAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120cf10df2093570b7a6a86fcf11475abefdacc27ab43e55271ae03a642baf15e840a",
+      "host": "keybase.io",
+      "kid": "0120cf10df2093570b7a6a86fcf11475abefdacc27ab43e55271ae03a642baf15e840a",
+      "uid": "b5cf4ce838b264104974f27dfec0d319",
+      "username": "kulja"
+    },
+    "merkle_root": {
+      "ctime": 1509548449,
+      "hash": "e85d40434fab1ba42544b5324d14e80a959da3d18764da361876cf2bbe6d2159683a736a9d889e363f1c1a92b62277c7be6d8d7d87da2727ba04451b77189250",
+      "hash_meta": "4d184f042f74121f87fa47078dab18d93577374f590914e260fbce2281939bb9",
+      "seqno": 1655140
+    },
+    "service": {
+      "hostname": "www.kulja.hr",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1509548463,
+  "expire_in": 504576000,
+  "prev": "4b52e7d049ee3a4fdc812c09cb170d903f194fda206d5292ef1a6b8ffd3be57b",
+  "seqno": 26,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgzxDfIJNXC3pqhvzxFHWr79rMJ6tD5VJxrgOmQrrxXoQKp3BheWxvYWTFA0F7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwY2YxMGRmMjA5MzU3MGI3YTZhODZmY2YxMTQ3NWFiZWZkYWNjMjdhYjQzZTU1MjcxYWUwM2E2NDJiYWYxNWU4NDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwY2YxMGRmMjA5MzU3MGI3YTZhODZmY2YxMTQ3NWFiZWZkYWNjMjdhYjQzZTU1MjcxYWUwM2E2NDJiYWYxNWU4NDBhIiwidWlkIjoiYjVjZjRjZTgzOGIyNjQxMDQ5NzRmMjdkZmVjMGQzMTkiLCJ1c2VybmFtZSI6Imt1bGphIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA5NTQ4NDQ5LCJoYXNoIjoiZTg1ZDQwNDM0ZmFiMWJhNDI1NDRiNTMyNGQxNGU4MGE5NTlkYTNkMTg3NjRkYTM2MTg3NmNmMmJiZTZkMjE1OTY4M2E3MzZhOWQ4ODllMzYzZjFjMWE5MmI2MjI3N2M3YmU2ZDhkN2Q4N2RhMjcyN2JhMDQ0NTFiNzcxODkyNTAiLCJoYXNoX21ldGEiOiI0ZDE4NGYwNDJmNzQxMjFmODdmYTQ3MDc4ZGFiMThkOTM1NzczNzRmNTkwOTE0ZTI2MGZiY2UyMjgxOTM5YmI5Iiwic2Vxbm8iOjE2NTUxNDB9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoid3d3Lmt1bGphLmhyIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zNCJ9LCJjdGltZSI6MTUwOTU0ODQ2MywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiI0YjUyZTdkMDQ5ZWUzYTRmZGM4MTJjMDljYjE3MGQ5MDNmMTk0ZmRhMjA2ZDUyOTJlZjFhNmI4ZmZkM2JlNTdiIiwic2Vxbm8iOjI2LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQMW26WXUgdWJ+TkxbYRhyXIlJ/d6h6APtkRt3cpobOIFSp335pMpU2GCuWMlcH0t1LxKWnbDmWITEDif24qLaA6oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAi8lzf+xJM0kph8vIcSWfhrvjcOU6A2hi25HViKZgw/aN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kulja
+
+==================================================================
